@@ -20,7 +20,7 @@ requests==2.21.0
 six==1.11.0
 transliterate==1.10.2
 Unidecode==1.0.23
-urllib3==1.24.1
+urllib3==1.26.5
 wagtail==2.3
 wagtailmath==1.1.0
 webencodings==0.5.1
